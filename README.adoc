@@ -1,0 +1,3 @@
+= Demo Integration Tests
+
+A very simple integration test, to go with deployed demo project
